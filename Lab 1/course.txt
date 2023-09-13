@@ -1,97 +1,67 @@
-2022-23
 CS/CNS/EE 156 ab – Learning Systems
-2022-23
 CDS 232 – Nonlinear Dynamics
 CDS 233 – Nonlinear Control
-2022-23
 CS/CNS/EE/IDS 165 – Foundations of Machine Learning and Statistical Inference
-2022-23
 ACM 11 – Introduction to Computational Science and Engineering
 ACM 256 – Special Topics in Applied Mathematics
-2022-23
 CS/CNS 171 – Computer Graphics Laboratory
 CS 179 – GPU Programming
-2022-23
 CS 101 – Special Topics in Computer Science
 CS 137 – Real-World Algorithm Implementation
 CS 2 – Introduction to Programming Methods
 CS 22 – Data Structures & Parallelism
 CS 24 – Introduction to Computing Systems
 CS 3 – Introduction to Software Design
-2022-23
 CS 101 – Special Topics in Computer Science
-2022-23
 ACM/IDS 101 ab – Methods of Applied Mathematics
-2022-23
 ME/CDS/EE 234 ab – Advanced Robotics: Planning
-2022-23
 CMS/ACM/IDS 113 – Mathematical Optimization
 CMS/ACM/EE 122 – Mathematical Optimization
 EE 55 – Mathematics of Electrical Engineering
-2022-23
 CDS 131 – Linear Systems Theory
 CDS 245 – Data-driven Control
 CDS 270 – Advanced Topics in Systems and Control
-2022-23
 CDS 141 – Network Control Systems
 CDS 231 – Robust Control Theory
-2022-23
 EE 164 – Stochastic and Adaptive Signal Processing
 ACM/EE/IDS 170 – Mathematics of Signal Processing
-2022-23
 ESE/Ch 176 – Environmental Physical Organic Chemistry Part I
 ESE/Ch 177 – Environmental Physical Organic Chemistry Part II
 ACM 256 – Special Topics in Applied Mathematics
 No courses found!
-2022-23
 ACM/EE 106 ab – Introductory Methods of Computational Mathematics
 CMS 290 abc – Computing and Mathematical Sciences Colloquium
-2022-23
 CS 1 – Introduction to Computer Programming
 CS/IDS 121 – Relational Databases
 CS 132 – Web Development
-2022-23
 EE/Ma/CS/IDS 136 – Information Theory and Applications
 EE/CS/IDS 160 – Fundamentals of Information Transmission and Storage
 No courses found!
-2022-23
 CS 101 – Special Topics in Computer Science
 ACM 105 – Applied Real and Functional Analysis
-2022-23
 EE/CS/EST 135 – Power System Analysis
 CS/EE 146 – Control and Optimization of Networks
 CS 9 – Introduction to Computer Science Research
-2022-23
 CS/IDS 153 – Current Topics in Theoretical Computer Science
 2020-21
 CMS/CS/IDS 139 – Analysis and Design of Algorithms
-2022-23
 CMS/CS/EE/IDS 144 – Networks: Structure & Economics
 CMS/Ec 248 – Topics in Learning and Games
-2022-23
 Ae/ACM/ME 232 ab – Computational Fluid Dynamics
 ACM 95/100 ab – Introductory Methods of Applied Mathematics for the Physical Sciences
-2022-23
 CDS 112 – Optimal Control and Estimation
-2022-23
 ACM 118 – Stochastic Processes and Regression
 ACM/IDS 216 – Markov Chains, Discrete Stochastic Processes and Applications
-2022-23
 Bi/BE/CS 183 – Introduction to Computational Biology and Bioinformatics
 No courses found!
 No courses found!
-2022-23
 CS/IDS 150 ab – Probability and Algorithms
-2022-23
 CMS/ACM/IDS 107 – Linear Analysis with Applications
 ACM/IDS 180 ab – Multiscale Modeling
-2022-23
 CMS/ACM 117 – Probability Theory and Stochastic Processes
 ACM 206 – Topics in Computational Mathematics
 ACM 217 – Advanced Topics in Probability
-2022-23
 CS 21 – Decidability and Tractability
-2022-23
 CS 1 x – Intermediate Computer Programming
 CS 11 – Computer Language Lab
 CS 111 – Graduate Programming Practicum
@@ -101,40 +71,28 @@ CS 131 – Programming Languages
 CS 164 – Compilers
 CS 4 – Fundamentals of Computer Programming
 No courses found!
-2022-23
 CMS/CS/EE/IDS 144 – Networks: Structure & Economics
 CS/EE 145 – Projects in Networking
 CS 42 – Computer Science Education in K-14 Settings
-2022-23
 BE/CS/CNS/Bi 191 ab – Biomolecular Computation
-2022-23
 CS/CNS/EE/IDS 159 – Advanced Topics in Machine Learning
-2022-23
 ACM/IDS 104 – Applied Linear Algebra
 ACM/EE/IDS 116 – Introduction to Probability Models
 IDS/ACM/CS 157 – Statistical Inference
 ACM 95/100 ab – Introductory Methods of Applied Mathematics for the Physical Sciences
-2022-23
 HPS/Pl/CS 110 – Causation and Explanation
 Pl/CNS/NB/Bi/Psy 167 – Consciousness
 2020-21
 HPS/Pl/CS 110 – Causation and Explanation
 Pl/CNS/NB/Bi 161 – Consciousness
-2022-23
 Ph/CS 219 abc – Quantum Computation
-2022-23
 E 2 – Frontiers in Engineering and Applied Science
 Ae 233 – Hydrodynamic Stability
 Ae 239 ab – Turbulence
-2022-23
 EE/CNS/CS 148 – Selected Topics in Computational Vision
-2022-23
 Ph/CS 219 abc – Quantum Computation
-2022-23
 BE/CS 196 ab – Design and Construction of Programmable Molecular Systems
-2022-23
 Ma/ACM/IDS 140 ab – Probability
 No courses found!
-2022-23
 CS/IDS 142 – Distributed Computing
 No courses found!

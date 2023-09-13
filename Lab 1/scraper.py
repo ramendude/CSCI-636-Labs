@@ -1,8 +1,9 @@
-# Lab Report 1
+# Lab Report 1 - Web Scraper for Caltech's CMS Faculty
 # Rex Ocampo
-# to do - include name of prof in bios and courses to identify who is who
+
 import requests
 from bs4 import BeautifulSoup
+
 # data
 bio_url = []
 course_taught = []
@@ -27,7 +28,7 @@ if r.status_code == 200:
         if course_tag is not None:
             for tag in course_tag:
                 string = tag.text.strip()
-                if(string != 'Related Courses' and string != '2021-22' and string != ''):
+                if(string != 'Related Courses' and string != '2021-22' and string != '' and string != '2022-23'):
                     list.append(string)
                 elif(string == '2021-22'):
                     break
